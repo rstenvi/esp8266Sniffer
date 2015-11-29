@@ -5,12 +5,12 @@ Wiring
 ----------
 
 ESP -> SD card
-3V  -> 3V/VDD
-GND -> GND/VSS1
-2   -> CS
-14  -> (S)CLK
-12  -> DI/MOSI
-13  -> DO/MISO
+- 3V  -> 3V/VDD
+- GND -> GND/VSS1
+- 2   -> CS
+- 14  -> (S)CLK
+- 12  -> DI/MOSI
+- 13  -> DO/MISO
 
 SD Card
 -------------
