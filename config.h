@@ -23,8 +23,6 @@ extern "C" {
 
 #define PRINT_DEBUG 1
 
-#define RB_MAX_SIZE 4096
-
 
 #endif
 

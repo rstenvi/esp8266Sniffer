@@ -20,8 +20,8 @@ void setup() {
 
 	// Can set os_install_putc1 to change which function os_printf calls
 
-	sniffer_start(6, NULL);
 	pcap_init("pcap2.txt");
+	sniffer_start(6, NULL);
 }
 
 
